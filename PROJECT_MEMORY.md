@@ -12,3 +12,9 @@ Use this file to learn from Keshav's feedback. Before every automated content ru
 
 ## Feedback log
 
+
+## Hindi language rule
+- Hindi posts must use Devanagari Hindi script, not romanized Hindi.
+- English subject terms may remain in English where natural for students.
+- Correct style: `Psychology क्या है`, `Memory कैसे काम करती है`, `Parts of Speech क्या होते हैं`.
+- Avoid romanized style: `Psychology kya hai`, `Memory kaise kaam karti hai`.

@@ -13,3 +13,9 @@ The blog is managed by OpenClaw cron agents. Agents should read:
 - `publisher-agent`: builds, commits, pushes, and logs changes.
 
 Daily cron can run as one combined agent using these roles in sequence.
+
+## Hindi language rule
+- Hindi posts must use Devanagari Hindi script, not romanized Hindi.
+- English subject terms may remain in English where natural for students.
+- Correct style: `Psychology क्या है`, `Memory कैसे काम करती है`, `Parts of Speech क्या होते हैं`.
+- Avoid romanized style: `Psychology kya hai`, `Memory kaise kaam karti hai`.
