@@ -97,9 +97,6 @@ export default defineConfig({
   image: {
     layout: 'constrained',
     responsiveStyles: true,
-    // Required for local, generated SVG hero images under src/assets/images/posts/.
-    dangerouslyAllowSVG: true,
-    dangerouslyProcessSVG: true,
     remotePatterns: [
       // Unsplash (used by demo posts).
       { protocol: 'https', hostname: 'images.unsplash.com' },
