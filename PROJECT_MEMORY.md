@@ -27,3 +27,29 @@ Use this file to learn from Keshav's feedback. Before every automated content ru
 - Every important post should have a consistent featured image/hero image when useful.
 - Featured images must follow a consistent Edumynt visual style: clean educational illustration, minimal clutter, same color family, readable concept-focused composition.
 - Agents should generate or choose images only when they improve clarity/SEO/social sharing, and must set `heroImage` + `heroImageAlt` correctly.
+
+## Mandatory fact-checking and revision workflow
+- Before first publish, every post must pass a fact-check pass.
+- Before any later revision, the changed claims must be fact-checked again.
+- Fact-check agent must verify definitions, examples, dates, names, theories, grammar rules, and exam-facing claims against reliable sources.
+- If a claim is uncertain, simplify it, qualify it, or remove it. Do not publish confident nonsense.
+- Keep a short `Fact-check notes` entry in the post creation/revision log with sources consulted or checks performed.
+
+## Internal linking workflow
+- Before publishing, scan existing posts in the same blog.
+- If a post mentions a related concept that already has a post, link the first natural mention to that post.
+- Do not over-link. Prefer 3–8 useful internal links per long post.
+- Use descriptive anchor text, not “click here”.
+- When a new post fills a topic gap, later audit older related posts and add links to it.
+
+## Image workflow
+- Important posts should include a featured image when useful for SEO/social sharing and visual quality.
+- Use a consistent Edumynt visual style: clean educational illustration, bright but calm colors, minimal clutter, no tiny unreadable text, concept-focused.
+- Store images under `src/assets/images/posts/<slug>/` when generated or curated locally.
+- Set `heroImage` and `heroImageAlt` in frontmatter.
+- Alt text must explain the educational concept, not just say “image”.
+
+## Agent roles added
+- `fact-check-agent`: verifies factual accuracy before publish and before revisions.
+- `internal-link-agent`: adds relevant links between related posts.
+- `image-agent`: creates/selects consistent featured images and alt text.
