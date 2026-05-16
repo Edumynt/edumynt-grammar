@@ -1,52 +1,54 @@
 # Initial 50 Posts — Grammar By Edumynt
 
-1. Grammar क्या है? English Grammar का Simple Meaning
-2. Parts of Speech क्या होते हैं? 8 Parts आसान भाषा में
-3. Noun क्या है? Types और Examples
-4. Pronoun क्या है? Types और Examples
-5. Verb क्या है? Main Verb और Helping Verb
-6. Adjective क्या है? Types और Examples
-7. Adverb क्या है? Types और Examples
-8. Preposition क्या है? Common Prepositions
-9. Conjunction क्या है? Coordinating और Subordinating
-10. Interjection क्या है? Simple Examples
-11. Article क्या है? A, An और The का Use
-12. Countable और Uncountable Nouns में Difference
-13. Singular और Plural Nouns Rules
-14. Subject और Predicate क्या होते हैं
-15. Subject-Verb Agreement क्या है?
-16. Tense क्या है? 12 Tenses का Overview
-17. Simple Present Tense क्या है?
-18. Present Continuous Tense क्या है?
-19. Present Perfect Tense क्या है?
-20. Present Perfect Continuous Tense क्या है?
-21. Simple Past Tense क्या है?
-22. Past Continuous Tense क्या है?
-23. Past Perfect Tense क्या है?
-24. Past Perfect Continuous Tense क्या है?
-25. Simple Future Tense क्या है?
-26. Future Continuous Tense क्या है?
-27. Future Perfect Tense क्या है?
-28. Future Perfect Continuous Tense क्या है?
-29. Active Voice और Passive Voice में Difference
-30. Direct और Indirect Speech क्या है?
-31. Modal Verbs क्या हैं? Can, Could, May, Might
-32. Should, Must और Have to में Difference
-33. Gerund और Infinitive में Difference
-34. Phrase और Clause में Difference
-35. Simple, Compound और Complex Sentence
-36. Conditional Sentences क्या हैं?
-37. Question Tags क्या हैं?
-38. Common Errors in Nouns for Exams
-39. Common Errors in Pronouns for Exams
-40. Common Errors in Verbs for Exams
-41. Common Errors in Articles for Exams
-42. Common Errors in Prepositions for Exams
-43. Common Errors in Tenses for Exams
-44. Common Errors in Subject-Verb Agreement
-45. Degrees of Comparison क्या हैं?
-46. Determiners क्या होते हैं?
-47. Punctuation Marks कैसे Use करें
-48. Synonyms और Antonyms कैसे याद करें
-49. One Word Substitution क्या है?
-50. Error Spotting कैसे Solve करें Competitive Exams में
+Rule: Titles must stay pure English and SEO-friendly. Hindi/Devanagari appears inside Hindi post bodies only.
+
+1. Why We Say “I Am” but “You Are”: The Simple Rule Behind Be-Verbs
+2. The Difference Between “A” and “An” That Most Students Forget
+3. When to Use “The”: The Article Rule Explained with Easy Examples
+4. “Much” vs “Many”: The Countable-Uncountable Rule Made Simple
+5. “Fewer” vs “Less”: The Grammar Rule for Quantity Questions
+6. “Some” vs “Any”: The Hidden Rule in Positive and Negative Sentences
+7. “Since” vs “For”: The Time Rule Every Exam Student Needs
+8. “In” vs “On” vs “At”: The Preposition Rule for Time and Place
+9. “Beside” vs “Besides”: One Letter, Different Meaning
+10. “Between” vs “Among”: The Easy Group Rule
+11. “Good” vs “Well”: Adjective or Adverb?
+12. “Who” vs “Whom”: The Simple Subject-Object Trick
+13. “Which” vs “That”: The Rule for Extra and Necessary Information
+14. “Its” vs “It’s”: The Apostrophe Rule Students Keep Missing
+15. “Your” vs “You’re”: The Fastest Way to Avoid This Error
+16. “There” vs “Their” vs “They’re”: Meaning and Memory Trick
+17. “Then” vs “Than”: Time or Comparison?
+18. “Affect” vs “Effect”: The Verb-Noun Rule Made Easy
+19. “Advice” vs “Advise”: Noun and Verb Difference
+20. “Practice” vs “Practise”: British English Rule for Exams
+21. “Lie” vs “Lay”: The Most Confusing Verb Pair Explained
+22. “Rise” vs “Raise”: The Action Rule with Examples
+23. “Can” vs “May”: Permission and Ability Difference
+24. “Should” vs “Must”: Advice, Duty, and Strong Necessity
+25. “May” vs “Might”: Possibility Rule Made Simple
+26. “Will” vs “Would”: Future, Habit, and Polite Meaning
+27. “Used To” vs “Be Used To”: Same Words, Different Grammar
+28. “Each” vs “Every”: The Singular Rule Students Miss
+29. “Either” vs “Neither”: Positive and Negative Choice Rule
+30. “Both” vs “Either” vs “Neither”: Two-Option Grammar Explained
+31. Why “News Is” Correct: Singular Nouns That Look Plural
+32. Why “Scissors Are” Correct: Plural Nouns with Two Parts
+33. Collective Nouns: When “Team Is” and “Team Are” Both Work
+34. Subject-Verb Agreement with “One of”: The Most Common Exam Trap
+35. Subject-Verb Agreement with “As Well As”: Why the First Subject Matters
+36. Subject-Verb Agreement with “Either Or” and “Neither Nor”
+37. The Rule of Parallelism: Why Lists Must Match
+38. Misplaced Modifiers: How One Word Can Change the Meaning
+39. Dangling Modifiers: The Funny Grammar Error in Sentences
+40. Double Negatives: Why “I Don’t Know Nothing” Is Wrong
+41. Redundancy in English: Words You Should Not Repeat
+42. Common Error Spotting Tricks for Articles
+43. Common Error Spotting Tricks for Prepositions
+44. Common Error Spotting Tricks for Tenses
+45. Common Error Spotting Tricks for Pronouns
+46. How to Identify the Main Verb in a Long Sentence
+47. How to Find the Subject in a Confusing Sentence
+48. How to Choose the Correct Tense in Error Spotting
+49. How to Solve Fill in the Blanks Using Grammar Clues
+50. How to Eliminate Wrong Options in Grammar MCQs
