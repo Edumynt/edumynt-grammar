@@ -77,5 +77,6 @@
     "giscus",
     "i18n",
     "blog"
-  ]
+  ],
+  "build": "astro build && bun run scripts/generate-api.ts && bun run pagefind"
 }
