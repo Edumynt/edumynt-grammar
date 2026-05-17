@@ -1,0 +1,60 @@
+# Outline: Compound Adjectives and Hyphenation: When to Connect Words
+
+- **Slug:** compound-adjectives-hyphenation
+- **Title:** Compound Adjectives and Hyphenation: When to Connect Words
+- **SEO description:** Learn Compound Adjectives and Hyphenation: When to Connect Words with clear rules, exam-focused examples, common mistakes, and quick practice for error spotting, MCQs, and writing.
+- **Categories:** Punctuation, Writing Skills
+- **Tags:** compound, adjectives, hyphenation, English grammar, exam grammar
+- **Translation key:** compound-adjectives-hyphenation
+- **Status:** OUTLINED
+
+---
+
+## Research / Grounding Notes
+
+- **Core concept:** Compound adjectives before a noun are often hyphenated to prevent misreading; after the noun they often are not.
+- **Key rule:** Hyphenate compound modifiers before the noun when they function as one adjective.
+- **References:** Quirk et al., A Comprehensive Grammar of the English Language; Huddleston & Pullum, The Cambridge Grammar of the English Language; Swan, Practical English Usage; Murphy, English Grammar in Use.
+- **Common errors:** A well known actor. → a well-known actor.; The actor is well-known. (often hyphenated style-dependent); A ten year old boy. → a ten-year-old boy.; High school students vs high-school students can differ by meaning.
+- **Exam relevance:** Moderate to High
+- **Overlap warning:** Avoid repeating basic definitions from earlier confusing-word posts; focus this article on decision steps, exam traps, and examples specific to this topic.
+
+---
+
+## Section Structure
+
+### 1. Introduction
+Open with the everyday confusion behind Compound Adjectives and Hyphenation: When to Connect Words. Use a wrong-versus-right pair from the mistakes list, then explain why this topic matters for school grammar, competitive exams, and clean writing.
+
+### 2. Core Meaning and Rule
+Explain the core concept in student-friendly language: Compound adjectives before a noun are often hyphenated to prevent misreading; after the noun they often are not. State the rule as a boxed takeaway: Hyphenate compound modifiers before the noun when they function as one adjective.
+
+### 3. Forms, Patterns, and Sentence Position
+Give the usable patterns students should memorize. Include mini tables where helpful, and show how the word/structure behaves with subjects, objects, complements, clauses, punctuation, or sentence position.
+
+### 4. Decision Checklist
+Teach a repeatable solving method: identify the target word/structure; check subject, object, noun type, or time marker; apply the one-line rule; read the sentence again for meaning and register. Apply the checklist to 2-3 sample sentences from this topic.
+
+### 5. Examples That Show the Difference
+Provide 8-10 graded examples: simple school-level sentences first, then exam-style sentences with distractors. Must include examples like: a well-known actor.; The actor is well-known. (often hyphenated style-dependent); a ten-year-old boy.; High school students vs high-school students can differ by meaning.. Mark the target grammar in bold in the final post.
+
+### 6. Exam Traps and Usage Notes
+Explain the traps that appear in error spotting, fill-in-the-blanks, sentence correction, and MCQs. Include register notes (formal/informal, BrE/AmE), exceptions, and “sounds right but is wrong” warnings if relevant.
+
+### 7. Common Mistakes
+- A well known actor. → a well-known actor.
+- The actor is well-known. (often hyphenated style-dependent)
+- A ten year old boy. → a ten-year-old boy.
+- High school students vs high-school students can differ by meaning.
+
+### 8. Quick Practice
+Include 8-10 exercises: 4 direct choice questions, 3 error-spotting items, and 2 sentence-rewrite or fill-in-the-blank items. Add a short answer key with one-line explanations.
+
+### 9. Summary
+End with a compact rule box, one memory trick, and a final pair/trio of correct examples students can revise before an exam.
+
+---
+
+## Internal Linking Suggestions
+- Link to `fill-in-blanks-grammar-clues` (#049)
+- Link to `eliminate-wrong-options-grammar-mcq` (#050)
