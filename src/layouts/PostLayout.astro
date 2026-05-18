@@ -192,6 +192,28 @@ const crumbs = [
       )
     }
 
+    <!-- Suggest Edit button -->
+    <div class="mt-8 flex flex-wrap items-center gap-3">
+      <a
+        href={`https://github.com/Edumynt/edumynt-grammar/issues/new?template=suggest-edit.md&title=[Edit] ${encodeURIComponent(post.data.title)}&labels=edit-suggestion&body=${encodeURIComponent(`**Article URL:** ${Astro.url.href}\n\n**Section:**\n<!-- Which section or paragraph? -->\n\n**Current text:**\n<!-- Quote the current text -->\n\n**Suggested change:**\n<!-- What should it say instead? -->\n\n**Reason:**\n<!-- Why is this change needed? -->`)}`}
+        target="_blank"
+        rel="noopener noreferrer"
+        class="inline-flex items-center gap-2 rounded-lg border border-base-300 px-4 py-2 text-sm font-medium hover:bg-base-200 transition-colors"
+      >
+        <Icon name="lucide:edit-3" width={14} height={14} />
+        Suggest Edit
+      </a>
+      <a
+        href="https://github.com/Edumynt/edumynt-grammar/blob/main/CONTRIBUTING.md"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="inline-flex items-center gap-2 rounded-lg border border-base-300 px-4 py-2 text-sm font-medium hover:bg-base-200 transition-colors"
+      >
+        <Icon name="lucide:file-text" width={14} height={14} />
+        Contribute
+      </a>
+    </div>
+
     <PostNav prev={prev} next={next} locale={locale} />
 
     {
