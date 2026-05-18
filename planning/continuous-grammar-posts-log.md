@@ -114,3 +114,33 @@
 | 083 | historical-changes-english-grammar | planning/outlines/083-historical-changes-english-grammar.md | src/content/posts/en/historical-changes-english-grammar.mdx | src/content/posts/hi/historical-changes-english-grammar.mdx | ✅ PASS | 2026-05-17 |
 
 **Total: 83 post pairs (166 files) created. Final build: ✅ PASS (1205 pages, 2 languages indexed).**
+| 084 | comma-rules-that-matter | planning/outlines/084-comma-rules-that-matter.md | src/content/posts/en/comma-rules-that-matter.mdx | src/content/posts/hi/comma-rules-that-matter.mdx | ✅ PASS | 2026-05-17 |
+
+**Total: 84 post pairs (168 files) created. Final build: ✅ PASS (685 pages, 2 languages indexed).**
+| 085 | advanced-article-usage-zero-article | planning/outlines/085-advanced-article-usage-zero-article.md | src/content/posts/en/advanced-article-usage-zero-article.mdx | src/content/posts/hi/advanced-article-usage-zero-article.mdx | ✅ PASS | 2026-05-17 |
+
+**Total: 85 post pairs (170 files) created. Final build: ✅ PASS (687 pages, 2 languages indexed).**
+| 086 | stative-verbs-continuous-tense | planning/outlines/086-stative-verbs-continuous-tense.md | src/content/posts/en/stative-verbs-continuous-tense.mdx | src/content/posts/hi/stative-verbs-continuous-tense.mdx | ✅ PASS | 2026-05-17 |
+
+**Total: 86 post pairs (172 files) created. Final build: ✅ PASS (691 pages, 2 languages indexed).**
+| 087 | question-formation-grammar | planning/outlines/087-question-formation-grammar.md | src/content/posts/en/question-formation-grammar.mdx | src/content/posts/hi/question-formation-grammar.mdx | ✅ PASS | 2026-05-17 |
+
+**Total: 87 post pairs (174 files) created. Final build: ✅ PASS (696 pages, 2 languages indexed).**
+| 088 | indirect-questions-polite-grammar | planning/outlines/088-indirect-questions-polite-grammar.md | src/content/posts/en/indirect-questions-polite-grammar.mdx | src/content/posts/hi/indirect-questions-polite-grammar.mdx | ✅ PASS | 2026-05-17 |
+
+**Total: 88 post pairs (176 files) created. Final build: ✅ PASS (700 pages, 2 languages indexed).**
+| 089 | emphasis-structures-do-does-did | planning/outlines/089-emphasis-structures-do-does-did.md | src/content/posts/en/emphasis-structures-do-does-did.mdx | src/content/posts/hi/emphasis-structures-do-does-did.mdx | ✅ PASS | 2026-05-17 |
+
+**Total: 89 post pairs (178 files) created. Final build: ✅ PASS (703 pages, 2 languages indexed).**
+| 090 | linking-verbs-complement-adjective | planning/outlines/090-linking-verbs-complement-adjective.md | src/content/posts/en/linking-verbs-complement-adjective.mdx | src/content/posts/hi/linking-verbs-complement-adjective.mdx | ✅ PASS | 2026-05-17 |
+
+**Total: 90 post pairs (180 files) created. Final build: ✅ PASS (706 pages, 2 languages indexed).**
+| 091 | object-complements-explained | planning/outlines/091-object-complements-explained.md | src/content/posts/en/object-complements-explained.mdx | src/content/posts/hi/object-complements-explained.mdx | ✅ PASS | 2026-05-17 |
+
+**Total: 91 post pairs (182 files) created. Final build: ✅ PASS (708 pages, 2 languages indexed).**
+| 092 | prepositional-phrases-functions | planning/outlines/092-prepositional-phrases-functions.md | src/content/posts/en/prepositional-phrases-functions.mdx | src/content/posts/hi/prepositional-phrases-functions.mdx | ✅ PASS | 2026-05-17 |
+
+**Total: 92 post pairs (184 files) created. Final build: ✅ PASS (712 pages, 2 languages indexed).**
+| 093 | advanced-modal-verbs-perfect-infinitive | planning/outlines/093-advanced-modal-verbs-perfect-infinitive.md | src/content/posts/en/advanced-modal-verbs-perfect-infinitive.mdx | src/content/posts/hi/advanced-modal-verbs-perfect-infinitive.mdx | ✅ PASS | 2026-05-17 |
+
+**Total: 93 post pairs (186 files) created. Final build: ✅ PASS (717 pages, 2 languages indexed).**
